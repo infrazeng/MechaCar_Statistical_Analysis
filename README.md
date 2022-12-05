@@ -1,7 +1,10 @@
 # MechaCar Statistical Analysis
 
+## Languages used
+• R
+
 ## Purpose and Overview
-The purpose of this project is to analyze and measure how difference factors can affect new MechaCar prototypes and to compare vehicle performance based on these measurements. Several of the factors being compared include weight, length, spoiler angle, ground clearance, AWD capabilities, MPG, and PSI.
+The purpose of this project is to use R to analyze and measure how difference factors can affect new MechaCar prototypes and to compare vehicle performance based on these measurements. Several of the factors being compared include weight, length, spoiler angle, ground clearance, AWD capabilities, MPG, and PSI.
 
 ## Linear Regression to Predict MPG
 

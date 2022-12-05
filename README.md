@@ -15,7 +15,7 @@ The purpose of this project is to use R to analyze and measure how difference fa
 
 ## T-test on Suspension Coils
 
-![](t_test.png)
+![](images/t_test.png)
 Conducting a t-test, we find the p-values of the three lots
 
 • Lot 1 has a p-value of 1, higher than the significance level of 0.05. Because of this, we fail to reject the null hypothesis.
@@ -25,8 +25,8 @@ Conducting a t-test, we find the p-values of the three lots
 • Lot 3 has a p-value of 0.04168. Because this value is lower than the significance level of 0.05, we can reject the null hypothesis.
 
 ## Summary Statistics on Suspension Coils
-![](total_summary.png)
-![](lot_summary.png)
+![](images/total_summary.png)
+![](images/lot_summary.png)
 
 From the results we can see that overall, the manufacturing data meets the requirement that suspension coils must not exceed 100 pounds per square inch. However, when separated into 3 lots, the first and second lots show little variance; however, the third lot's variance far exceeds the limit.
 

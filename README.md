@@ -13,7 +13,7 @@ The factors being considered, such as weight, length, spoiler angle, ground clea
 
 ## Linear Regression to Predict MPG
 
-![](linear_regression.png)
+![](images/linear_regression.png)
 1. The vehicle length and ground clearance variables provided a non-random amount of variance to the mpg values
 2. The slope is not considered to be zero because the p-value is so small and we can easily reject the null hypothesis
 3. The linear model does a good job predicting mpg due to the adjusted R-squared being not too far off from the Multiple R-squared

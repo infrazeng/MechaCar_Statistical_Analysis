@@ -4,7 +4,12 @@
 • R
 
 ## Purpose and Overview
-The purpose of this project is to use R to analyze and measure how difference factors can affect new MechaCar prototypes and to compare vehicle performance based on these measurements. Several of the factors being compared include weight, length, spoiler angle, ground clearance, AWD capabilities, MPG, and PSI.
+
+The objective of this project is to leverage the power of R programming language to conduct a comprehensive analysis and evaluation of various factors that can impact the performance of new MechaCar prototypes. The project aims to measure and compare the performance of these prototypes based on several key factors, including weight, length, spoiler angle, ground clearance, all-wheel drive (AWD) capabilities, miles per gallon (MPG), and pounds per square inch (PSI).
+
+By utilizing R, we can efficiently analyze the data associated with these factors and gain insights into their influence on the performance of the MechaCar prototypes. The analysis will involve measuring the impact of each factor individually and collectively on the overall performance of the vehicles. This will enable us to identify significant correlations, evaluate the relative importance of each factor, and assess their combined effects on vehicle performance.
+
+The factors being considered, such as weight, length, spoiler angle, ground clearance, AWD capabilities, MPG, and PSI, provide a comprehensive framework for comparing and contrasting the performance attributes of the MechaCar prototypes. Through this analysis, we aim to provide valuable insights and inform decision-making processes regarding the design, optimization, and enhancement of the MechaCar prototypes, ultimately contributing to the development of high-performance vehicles.
 
 ## Linear Regression to Predict MPG
 
